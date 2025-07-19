@@ -1,5 +1,5 @@
-## Tools I have used.
-[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,express,nodejs,postman,mysql,firebase,docker,au,pr,ps,me,blender&theme=light)](https://skillicons.dev)
+## DevelopmentTools I have used.
+[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,express,nodejs,postman,mysql,firebase,docker&theme=light)](https://skillicons.dev)
 
 ## OS I have used.
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/dae5d172-5bd0-4716-b9df-2484ffdb9cac" />
