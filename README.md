@@ -7,7 +7,7 @@
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=light)](https://skillicons.dev)
 ## Language
-[![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,python,c#&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,python,cs&theme=light)](https://skillicons.dev)
 
 
 <!--
