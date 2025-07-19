@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,css,nodejs,express,firebase,mysql,ts,js,php,html,python,postman,au,pr,&theme=light)](https://skillicons.dev)
 
 ## OS I have used.
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,&theme=light)](https://skillicons.dev)<img width="600" height="315" alt="image" src="https://github.com/user-attachments/assets/9158b19f-d355-466d-a750-fc7481d30ce2" />
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,&theme=light)](https://skillicons.dev)<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9158b19f-d355-466d-a750-fc7481d30ce2" />
 
 <!--
 **SupawitKaennak/SupawitKaennak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
