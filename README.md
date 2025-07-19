@@ -1,7 +1,7 @@
 ## DevelopmentTools I have used.
 [![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,express,nodejs,postman,mysql,firebase,docker&theme=light)](https://skillicons.dev)
 
-## OtherTools I have used.
+## OtherTools I have used(haven’t used it in a long time)
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cff67fe9-df17-4747-8e09-f40c0929d030" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/58c6f4b1-a1d8-40b3-8525-7a804b00f003" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/67676783-3f13-40a3-98a3-07300b4bec79" />
@@ -9,6 +9,7 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1639b13b-41d2-4da5-a778-c981a44ea8b8" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a1bd662d-8d3e-4c64-a6e5-878c85021b3d" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c878586e-4ac6-42a1-931f-30941a70882f" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b00ff06f-07ea-405a-9493-bab796d9d2dd" />
 
 
 
