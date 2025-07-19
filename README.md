@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=light)](https://skillicons.dev)
 ## Language
 [![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,python&theme=light)](https://skillicons.dev)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 
 <!--
 **SupawitKaennak/SupawitKaennak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
