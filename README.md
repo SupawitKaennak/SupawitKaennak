@@ -1,4 +1,4 @@
-## Tools I have used
+## Tools I have used.
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
