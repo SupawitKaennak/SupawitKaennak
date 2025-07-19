@@ -4,7 +4,7 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cff67fe9-df17-4747-8e09-f40c0929d030" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/58c6f4b1-a1d8-40b3-8525-7a804b00f003" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/67676783-3f13-40a3-98a3-07300b4bec79" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7f76e4e9-37f5-4d98-a6a0-7b63ca3f729c" />
+<img width="50" height="48" alt="image" src="https://github.com/user-attachments/assets/7f76e4e9-37f5-4d98-a6a0-7b63ca3f729c" />
 
 
 ## OS I have used.
