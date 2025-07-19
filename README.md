@@ -2,6 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,express,nodejs,postman,mysql,firebase,docker&theme=light)](https://skillicons.dev)
 ## OtherTools I have used.
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cff67fe9-df17-4747-8e09-f40c0929d030" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/58c6f4b1-a1d8-40b3-8525-7a804b00f003" />
 
 ## OS I have used.
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/dae5d172-5bd0-4716-b9df-2484ffdb9cac" />
