@@ -5,7 +5,7 @@
 ## Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
 ## Database
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=light)](https://skillicons.dev)
 <!--
 **SupawitKaennak/SupawitKaennak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
