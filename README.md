@@ -2,7 +2,7 @@
 
 
 ## OS I have used.
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/dae5d172-5bd0-4716-b9df-2484ffdb9cac" />
+<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/dae5d172-5bd0-4716-b9df-2484ffdb9cac" />
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/062815d7-8522-4db6-b44e-3d0c40900e74" />
 <img width="85" height="85" alt="image" src="https://github.com/user-attachments/assets/6a350147-e68b-4c88-8e95-6fd4f500c6aa" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d5efefe0-a1b9-46e5-9dab-d36ffa2cd4f4" />
