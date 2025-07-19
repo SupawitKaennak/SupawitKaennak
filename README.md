@@ -7,7 +7,7 @@
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=light)](https://skillicons.dev)
 ## Language
-[![My Skills](https://skillicons.dev/icons?i=ts,js,php,html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,python&theme=light)](https://skillicons.dev)
 <!--
 **SupawitKaennak/SupawitKaennak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
