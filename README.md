@@ -1,5 +1,5 @@
 ## DevelopmentTools I have used.
-[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,express,nodejs,postman,mysql,firebase,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,express,nodejs,postman,mysql,firebase,docker,cs&theme=light)](https://skillicons.dev)
 
 ## OtherTools I have used(haven’t used it in a long time)
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cff67fe9-df17-4747-8e09-f40c0929d030" />
