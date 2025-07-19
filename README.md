@@ -1,10 +1,6 @@
 ## Tools I have used.
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ts,js,php,html,python,&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=au&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,css,nodejs,express,firebase,mysql,ts,js,php,html,python,au&theme=light)](https://skillicons.dev)
+
 ## OS I have used.
 
 <!--
