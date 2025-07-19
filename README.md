@@ -1,5 +1,7 @@
-h6## UX-UI [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
-## Front-end [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css&theme=light)](https://skillicons.dev)
+## UX-UI 
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
+## Front-end 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css&theme=light)](https://skillicons.dev)
 ## Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
 ## Database
