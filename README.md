@@ -2,7 +2,7 @@
 
 
 ## OS I have used.
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0228ff05-7e39-45ef-a872-978cc0bbc633" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0228ff05-7e39-45ef-a872-978cc0bbc633" />
 
 
 <!--
