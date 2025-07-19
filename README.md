@@ -2,6 +2,7 @@
 
 
 ## OS I have used.
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c763932b-d7ac-4ba2-88fa-71d0b97ddd2e" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9158b19f-d355-466d-a750-fc7481d30ce2" />
 
 <!--
