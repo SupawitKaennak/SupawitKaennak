@@ -1,7 +1,7 @@
 ## UX-UI
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
-## Front-end
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev) | ## Front-end
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind&theme=light)](https://skillicons.dev)
+
 ## Back-end
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
 ## Database
