@@ -3,7 +3,7 @@
 
 ## OS I have used.
 <img width="85" height="85" alt="image" src="https://github.com/user-attachments/assets/3175aff5-e6d1-4007-b221-d55c4c8cb871" />
-<img width="85" height="85" alt="image" src="https://github.com/user-attachments/assets/6a350147-e68b-4c88-8e95-6fd4f500c6aa" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6a350147-e68b-4c88-8e95-6fd4f500c6aa" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d5efefe0-a1b9-46e5-9dab-d36ffa2cd4f4" />
 
 
