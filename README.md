@@ -7,6 +7,7 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/67676783-3f13-40a3-98a3-07300b4bec79" />
 <img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/7f76e4e9-37f5-4d98-a6a0-7b63ca3f729c" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1639b13b-41d2-4da5-a778-c981a44ea8b8" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4cd208cf-7fcc-4db7-86d2-1f960df728d5" />
 
 ## OS I have used.
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/dae5d172-5bd0-4716-b9df-2484ffdb9cac" />
