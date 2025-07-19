@@ -1,4 +1,4 @@
-## UX-UI 👋
+## UX-UI
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
 <!--
 **SupawitKaennak/SupawitKaennak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
