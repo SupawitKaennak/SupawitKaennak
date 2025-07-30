@@ -1,5 +1,4 @@
-## Hi 😄.
-## Nice to meet you.
+## Hi 😄. ## Nice to meet you.
 
 
 ## OS I have used.
