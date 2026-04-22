@@ -1,12 +1,5 @@
 ## Hi 😄. Nice to meet you.
 
-
-## OS I have used.
-<img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/dae5d172-5bd0-4716-b9df-2484ffdb9cac" />
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/062815d7-8522-4db6-b44e-3d0c40900e74" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d5efefe0-a1b9-46e5-9dab-d36ffa2cd4f4" />
-
-
 <!--
 **SupawitKaennak/SupawitKaennak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
