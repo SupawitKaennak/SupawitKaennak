@@ -1,5 +1,6 @@
 ## Hi 😄. Nice to meet you.
 
+vibe code hobby.
 <!--
 **SupawitKaennak/SupawitKaennak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
